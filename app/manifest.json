@@ -1,7 +1,8 @@
 {
   "name": "ImageJS",
-  "description": "like NIH imagej but using js",
-  "version": "1.5",
+  "fullname": "imagejs.imagejs",
+  "description": "This project is similar to the NIH imagej project but purely written in JavaScript",
+  "version": "1.6",
   "app": {
     "launch": {
       "web_url": "http://imagejs.github.com"
